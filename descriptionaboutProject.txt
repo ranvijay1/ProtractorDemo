@@ -1,0 +1,5 @@
+Hi Team,
+-> I am taking screenshot after failing the steps.
+-> I haven't added node_modules in this repository due to size of node modules very long.
+->I am not able to use drag & drop, file uploader functionality. Because I am not able to see such functionality in amezon website.
+-> However I can do drag and drop and file upload, please let me know if you want, I can write code for these functionality.
