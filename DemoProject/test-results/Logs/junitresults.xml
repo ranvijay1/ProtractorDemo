@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="12" time="74.6">
+ <testsuite name="Test Case: Testing Amezon Site" timestamp="2018-10-13T17:44:53" hostname="localhost" time="37.301" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Test Case: Testing Amezon Site.Test Scenario: Open amezon url and performing mouse move operation" timestamp="2018-10-13T17:44:53" hostname="localhost" time="13.334" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Open amezon url and performing mouse move operation" name="Should open amezon url and verifying the title of page" time="12.23" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Open amezon url and performing mouse move operation" name="Should hover mouse on &quot;Sign In button&quot; button" time="0.091" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Open amezon url and performing mouse move operation" name="Verifying if &quot;Sign In button&quot; button present" time="0.391" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Open amezon url and performing mouse move operation" name="Should hover mouse on &quot;ToolTip textbox&quot; button" time="0.267" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Open amezon url and performing mouse move operation" name="Verifying if &quot;ToolTip textbox&quot; button present" time="0.337" />
+ </testsuite>
+ <testsuite name="Test Case: Testing Amezon Site.Test Scenario: Select &quot;Today&apos;s Deals&quot; tab and selecting specific item" timestamp="2018-10-13T17:45:06" hostname="localhost" time="17.098" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Select &quot;Today&apos;s Deals&quot; tab and selecting specific item" name="Should click on &quot;Today&apos;s Deals&quot; tab from amezon main page" time="4.277" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Select &quot;Today&apos;s Deals&quot; tab and selecting specific item" name="Verifying if &quot;Today&apos;s Deal&quot; page opened" time="1.45" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Select &quot;Today&apos;s Deals&quot; tab and selecting specific item" name="Should click on &quot;Book&quot; checkbox from department to checkoff" time="3.692" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Select &quot;Today&apos;s Deals&quot; tab and selecting specific item" name="Shoul select &quot;Klutz LEGO Chain Reactions Craft Kit&quot; from the list" time="7.674" />
+ </testsuite>
+ <testsuite name="Test Case: Testing Amezon Site.Test Scenario: Searching item from search textbox and selecting specific item" timestamp="2018-10-13T17:45:24" hostname="localhost" time="6.867" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Searching item from search textbox and selecting specific item" name="Should enter &quot;Nike Shoes&quot; in to search box" time="2.677" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Searching item from search textbox and selecting specific item" name="Should click on &quot;Search button&quot;" time="4.101" />
+  <testcase classname="Test Case: Testing Amezon Site.Test Scenario: Searching item from search textbox and selecting specific item" name="Verifying if some items displayed in results" time="0.085" />
+ </testsuite>
+</testsuites>

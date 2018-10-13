@@ -1,0 +1,48 @@
+1
+00:00:00,003 --> 00:00:12,235
+<font color="green">SUCCESS</font> Should open amezon url and verifying the title of page
+
+2
+00:00:12,235 --> 00:00:12,339
+<font color="green">SUCCESS</font> Should hover mouse on "Sign In button" button
+
+3
+00:00:12,339 --> 00:00:12,730
+<font color="green">SUCCESS</font> Verifying if "Sign In button" button present
+
+4
+00:00:12,730 --> 00:00:12,997
+<font color="green">SUCCESS</font> Should hover mouse on "ToolTip textbox" button
+
+5
+00:00:12,998 --> 00:00:13,336
+<font color="green">SUCCESS</font> Verifying if "ToolTip textbox" button present
+
+6
+00:00:13,337 --> 00:00:17,615
+<font color="green">SUCCESS</font> Should click on "Today's Deals" tab from amezon main page
+
+7
+00:00:17,615 --> 00:00:19,066
+<font color="green">SUCCESS</font> Verifying if "Today's Deal" page opened
+
+8
+00:00:19,066 --> 00:00:22,758
+<font color="green">SUCCESS</font> Should click on "Book" checkbox from department to checkoff
+
+9
+00:00:22,758 --> 00:00:30,435
+<font color="green">SUCCESS</font> Shoul select "Klutz LEGO Chain Reactions Craft Kit" from the list
+
+10
+00:00:30,436 --> 00:00:33,113
+<font color="green">SUCCESS</font> Should enter "Nike Shoes" in to search box
+
+11
+00:00:33,114 --> 00:00:37,216
+<font color="green">SUCCESS</font> Should click on "Search button"
+
+12
+00:00:37,216 --> 00:00:37,302
+<font color="green">SUCCESS</font> Verifying if some items displayed in results
+
